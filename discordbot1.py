@@ -66,4 +66,4 @@ async def on_message(message):
         await message.channel.send(say)
 
 #botのトークン
-client.run('OTA0OTE3NzMyODM3OTc4MjQz.YYCgUA.EgmrcICuriYjLylYsIsbES2w9bQ')
+client.run(DISCORD_BOT_TOKEN)
